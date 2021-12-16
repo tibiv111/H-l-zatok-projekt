@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (gyak3_kliens.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ClientThread.cpp
+E:\Work\UNI\Third_year_first_semester\Halozatok\projekt\C++ Base\TCP_SERVER\gyak3_kliens\ClientThread.cpp(128,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\UNI\Third_year_first_semester\Halozatok\projekt\C++ Base\TCP_SERVER\gyak3_kliens\ClientThread.cpp(163,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\UNI\Third_year_first_semester\Halozatok\projekt\C++ Base\TCP_SERVER\gyak3_kliens\ClientThread.cpp(195,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  gyak3_kliens.vcxproj -> E:\Work\UNI\Third_year_first_semester\Halozatok\projekt\C++ Base\TCP_SERVER\x64\Debug\TCP_Server.exe
